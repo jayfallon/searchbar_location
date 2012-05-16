@@ -5,6 +5,8 @@ According to surveys, pundits, opinions and convention it should go in there som
 
 Let's see who in the Alexa [Top Sites in United States](http://www.alexa.com/topsites/countries/US) is following convention. I surveyed the top twenty-five websites and yielded the following results:
 
+### Alexa 1 - 25
+
 #### Top of the View Location: 72%
 * top-left: 12% (3, 7, 16)
 * top-left-center: 16% (1, 2, 5, 15)
@@ -18,6 +20,31 @@ Let's see who in the Alexa [Top Sites in United States](http://www.alexa.com/top
 
 #### Nowhere: 12%
 * didn't have one: 12% (11, 12, 19)
+
+## Hint: It belongs at the top, preferably on the right side
+
+I went a little further and scoped out the searchbar location for the [26-50 Top Sites in United States](http://www.alexa.com/topsites/countries;1/US), mostly pr0n and Godaddy customers so I'll save you from the screencaps, and I learned a little more:
+
+### Alexa 26 - 50
+
+#### Top of the View Location: 64%
+* top-left: 8% (34, 44)
+* top-left-center: 8% (32, 41)
+* top-center: 16% (35, 36, 40, 42)
+* top-right: 32% (26, 27, 28, 33, 37, 38, 39, 50)
+
+#### Nestled Among Content: 8%
+* left-column: 0%
+* center-column: 4% (45)
+* right-column: 4%  (29)
+
+#### Nowhere: 12%
+none: 28% (30, 31, 43, 46, 47, 48, 49)
+
+Godaddy has two search bars. Please use [DNSimple](https://dnsimple.com/).
+
+So to recap the Top 50 in toto, 68% had the searchbar located at the top of the view, 20% didn't have one or did not apply and only 12% had the searchbar nestled among the content somewhere.
+
 
 Screencaps
 ==========
