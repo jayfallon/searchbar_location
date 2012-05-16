@@ -24,7 +24,7 @@ Screencaps
 
 1. Google
 ---------
-* Type: Seach Engine
+* Type: Search Engine
 * Location: top-left-center
 * Visibility: prominent; very much bread and butter
 
@@ -132,7 +132,7 @@ Screencaps
 * Location: centered on page
 * Visibility: prominent
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/GO.com - Official Home Page-2.jpgg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/GO.com - Official Home Page-2.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/GO.com - Official Home Page-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/GO.com - Official Home Page-2.jpg" width="600"></a>
 
 15. Bing
 ------------
@@ -208,7 +208,7 @@ Screencaps
 
 24. Netflix
 ------------
-* Type: Ageing DVD Rental House 
+* Type: Aging DVD Rental House 
 * Location: left
 * Visibility: horrible, but they've never been good at it
 
