@@ -1,9 +1,26 @@
 Where does the search bar go?
 =============================
 
-According to surveys, pundits, opinions and convention it should go in the somewhere at the top of a web view. Mobile apps also follow this pattern. I don't really have any other argument oter than it's where everyone puts it and it's where users expect it to be. Good enough for me.
+According to surveys, pundits, opinions and convention it should go in there somewhere at the top of a web view. Mobile apps also follow this pattern. I don't really have any other argument other than it's where everyone puts it and it's where users expect it to be. Good enough for me.
 
-Let's see who in the Alexa [Top Sites in United States](http://www.alexa.com/topsites/countries/US) is following convention.
+Let's see who in the Alexa [Top Sites in United States](http://www.alexa.com/topsites/countries/US) is following convention. I surveyed the top twenty-five websites and yielded the following results:
+
+#### Top of the View Location: 72%
+* top-left: 12% (3, 7, 16)
+* top-left-center: 16% (1, 2, 5, 15)
+* top-center: 16% (4, 13, 20, 25)
+* top-right: 28% (6, 8, 10, 18, 21, 22, 23)
+
+#### Nestled Among Content: 16%
+* left-column: 8% (9, 24)
+* center-column: 4% (14)
+* right-column: 4% (17)
+
+#### Nowhere: 12%
+* didn't have one: 12% (11, 12, 19)
+
+Screencaps
+==========
 
 1. Google
 ---------
@@ -88,119 +105,119 @@ Let's see who in the Alexa [Top Sites in United States](http://www.alexa.com/top
 11. Blogger
 ------------
 * Type: Something about Blogs 
-* Location: unkownw
+* Location: unknown
 * Visibility: none
 
 <a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
 
 12. Windows Live
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: No idea because I'm not signing up 
+* Location: n/a
+* Visibility: looks like a SharePoint POS, probably is
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Welcome to Windows Live-1.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Welcome to Windows Live-1.jpg" width="600"></a>
 
 13. MSN
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Yahoo! Without the Drama 
+* Location: top-center
+* Visibility: very good
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/MSN.com-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/MSN.com-2.jpg" width="600"></a>
 
 14. Go
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: I have no idea 
+* Location: centered on page
+* Visibility: prominent
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/GO.com - Official Home Page-2.jpgg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/GO.com - Official Home Page-2.jpg" width="600"></a>
 
 15. Bing
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Redmond's Answer to Google 
+* Location: top-center-left
+* Visibility: prominent	
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/redmond_s answer to google - Bing.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/redmond_s answer to google - Bing.jpg" width="600"></a>
 
 16. Pinterest
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Awesome Photo Discovery Service 
+* Location: top-left
+* Visibility: high
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-1-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-1-2.jpg" width="600"></a>
 
 17. Tumblr
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Highbrow Time Wasting for Hipsters 
+* Location: top-right-column
+* Visibility: low
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Tumblr-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Tumblr-2.jpg" width="600"></a>
 
 18. PayPal
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Awful Payment "Facilitator" 
+* Location: top-right
+* Visibility: okay
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Send Money, Pay Online or Set Up a Merchant Account with PayPal-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Send Money, Pay Online or Set Up a Merchant Account with PayPal-2.jpg" width="600"></a>
 
 19. t.co
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
+* Type: Twitter uses the t.co domain as part of a service to protect users from harmful activity, to provide value for the developer ecosystem, and as a quality signal for surfacing relevant, interesting Tweets. LOL.  
+* Location: unknown
 * Visibility: none
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/t.co _ Twitter.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/t.co _ Twitter.jpg" width="600"></a>
 
 20. AOL
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Oldskool Media 
+* Location: top-center
+* Visibility: high
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/AOL.com - News, Sports, Weather, Entertainment, Local & Lifestyle-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/AOL.com - News, Sports, Weather, Entertainment, Local & Lifestyle-2.jpg" width="600"></a>
 
 21. ESPN
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Worldwide Corporate Sports Propaganda Leader 
+* Location: top-right
+* Visibility: very much so
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/ESPN_ The Worldwide Leader In Sports-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/ESPN_ The Worldwide Leader In Sports-2.jpg" width="600"></a>
 
 22. CNN Interactive
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Online News Service 
+* Location: top-right
+* Visibility: can't miss
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/CNN.com - Breaking News, U.S., World, Weather, Entertainment & Video News-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/CNN.com - Breaking News, U.S., World, Weather, Entertainment & Video News-2.jpg" width="600"></a>
 
 23. Wordpress
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Blogging Platform 
+* Location: top-right
+* Visibility: hidden; activated via icon click
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/WordPress.com — Get a Free Blog Here-1-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/WordPress.com — Get a Free Blog Here-1-2.jpg" width="600"></a>
 
 24. Netflix
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Ageing DVD Rental House 
+* Location: left
+* Visibility: horrible, but they've never been good at it
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Netflix - Browse Action, Comedy, TV Shows, Drama & more-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Netflix - Browse Action, Comedy, TV Shows, Drama & more-2.jpg" width="600"></a>
 
 25. The Huffington Post
 ------------
-* Type: Something about Blogs 
-* Location: unkownw
-* Visibility: none
+* Type: Seriously Shocking Headlines 
+* Location: top-center
+* Visibility: low, cannot compete with the noise
 
-<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Google Chrome-3.jpg" width="600"></a>
+<a href="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Breaking News and Opinion on The Huffington Post-2.jpg"><img src="https://github.com/jayfallon/searchbar_location/raw/master/screencaps/Breaking News and Opinion on The Huffington Post-2.jpg" width="600"></a>
