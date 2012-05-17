@@ -38,7 +38,7 @@ I went a little further and scoped out the searchbar location for the [26-50 Top
 * center-column: 4% (45)
 * right-column: 4%  (29)
 
-#### Nowhere: 12%
+#### Nowhere: 28%
 none: 28% (30, 31, 43, 46, 47, 48, 49)
 
 Godaddy has two search bars. Please use [DNSimple](https://dnsimple.com/).
